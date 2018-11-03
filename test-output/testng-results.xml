@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14934" started-at="2018-11-03T02:14:55Z" finished-at="2018-11-03T02:15:10Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestngHooks.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:poc.teste._Test@e45f292]" name="feature" class="br.com.poc.steps.TestngHooks"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="14934" started-at="2018-11-03T02:14:55Z" finished-at="2018-11-03T02:15:10Z">
+      <class name="poc.teste._Test">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:poc.teste._Test@e45f292]" name="setUpClass" is-config="true" duration-ms="12327" started-at="2018-11-03T02:14:55Z" finished-at="2018-11-03T02:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:poc.teste._Test@e45f292]" name="tearDownClass" is-config="true" duration-ms="2527" started-at="2018-11-03T02:15:08Z" finished-at="2018-11-03T02:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- poc.teste._Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

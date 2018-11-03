@@ -1,5 +1,8 @@
 package poc.teste;
 
-public class _Test {
+import br.com.poc.steps.TestngHooks;
 
+public class _Test extends TestngHooks{
+
+	
 }
